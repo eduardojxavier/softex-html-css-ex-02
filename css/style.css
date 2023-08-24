@@ -1,0 +1,12 @@
+body{
+    width: 800px;
+    height: 600px;
+}
+img {
+    width: 640px;
+    height: 480px;
+}
+
+p {
+    text-align: justify;
+}
